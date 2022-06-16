@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Fuentes5
+- 👀 I’m interested in Data Modeling
+- 🌱 I’m currently learning R-studio, SQL
